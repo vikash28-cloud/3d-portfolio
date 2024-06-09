@@ -23,6 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    pm,ar
 
   } from "../assets";
   
@@ -201,7 +202,7 @@ import {
     {
       name: "Password Manager",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "This project is your personalized password manager designed to securely store and manage all your passwords with you can conveniently save, retrieve, and organize your passwords for various websites",
       tags: [
         {
           name: "react",
@@ -216,71 +217,71 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: pm,
+      source_code_link: "https://github.com/vikash28-cloud/Password-Manager",
     },
     {
-      name: "E-commerce Website",
+      name: "Attendance Recognition System",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Created a smart attendance system for automating the attendance of the class using Python, Tkinter, and OpenCV.",
       tags: [
         {
-          name: "react",
+          name: "Python",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "TKinter",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "OpenCV",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/vikash28-cloud",
     },
     {
-      name: "Chat-Application",
+      name: "Hospital Beds availability System in Covid",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "In smart in Hackathon 2022, we develop a web application where users can check the availability of beds, oxygen cylinders, and other services in hospitals using this application in covid",
       tags: [
         {
-          name: "nextjs",
+          name: "Django",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "MySQL",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Python",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/vikash28-cloud",
     },
     {
       name: "Education using AR 3D Models",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Build an Application where students can see 3d AR models based on the topic of their study by scanning QR’s Students can understand theoretical concepts in a practical way. ",
       tags: [
         {
-          name: "nextjs",
+          name: "Vuforia",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Unity",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Blender",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: ar,
+      source_code_link: "https://github.com/vikash28-cloud",
     },
   ];
   
